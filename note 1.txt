@@ -3,3 +3,5 @@ hi my name is aju
 this is my first edit
 
 this is for merging edit
+
+merge conflit editing in note 1
