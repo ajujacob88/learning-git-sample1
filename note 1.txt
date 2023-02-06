@@ -3,3 +3,5 @@ hi my name is aju
 this is my first edit
 
 this is for merging edit
+
+again note 1 edited same repeatedly edited for conflict from master edited
